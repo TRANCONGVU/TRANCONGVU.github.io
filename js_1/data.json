@@ -10,7 +10,7 @@ var products ={
 			image3 : "images/bo13.jpg",
 			image4 : "images/bo14.jpg",
 			carousel : "8",
-			tenao : "BO SO1",
+			tenao : "SET 1",
 			gia   : "29.95",
 
 
@@ -23,6 +23,9 @@ var products ={
 			image3 : "images/bo23.jpg",
 			image4 : "images/bo24.jpg",
 			carousel : "3",
+			tenao : "SET 2",
+			gia   : "29.95",
+
 
 		},
 		{
@@ -32,7 +35,10 @@ var products ={
 			image2 : "images/bo32.jpg",
 			image3 : "images/bo3.jpg",
 			image4 : "images/bo34.jpg",
-			carousel : "4"
+			carousel : "4",
+			tenao : "SET 3",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -41,7 +47,10 @@ var products ={
 			image2 : "images/bo42.jpg",
 			image3 : "images/bo43.jpg",
 			image4 : "images/bo44.jpg",
-			carousel : "5"
+			carousel : "5",
+			tenao : "SET 4",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -50,7 +59,10 @@ var products ={
 			image2 : "images/bo52.jpg",
 			image3 : "images/bo53.jpg",
 			image4 : "images/bo54.jpg",
-			carousel : "6"
+			carousel : "6",
+			tenao : "SET 5",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -59,7 +71,10 @@ var products ={
 			image2 : "images/bo62.jpg",
 			image3 : "images/bo63.jpg",
 			image4 : "images/bo64.jpg",
-			carousel : "7"
+			carousel : "7",
+			tenao : "SET 6",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -68,7 +83,10 @@ var products ={
 			image2 : "images/bo62.jpg",
 			image3 : "images/bo63.jpg",
 			image4 : "images/bo64.jpg",
-			carousel : "88"
+			carousel : "88",
+			tenao : "SET 7",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -78,6 +96,10 @@ var products ={
 			image3 : "images/bo53.jpg",
 			image4 : "images/bo54.jpg",
 			carousel : "9"
+			,
+			tenao : "SET 8",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -86,7 +108,10 @@ var products ={
 			image2 : "images/bo42.jpg",
 			image3 : "images/bo43.jpg",
 			image4 : "images/bo44.jpg",
-			carousel : "10"
+			carousel : "10",
+			tenao : "SET 9",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -95,7 +120,10 @@ var products ={
 			image2 : "images/bo32.jpg",
 			image3 : "images/bo33.jpg",
 			image4 : "images/bo34.jpg",
-			carousel : "11"
+			carousel : "11",
+			tenao : "SET 10",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -104,7 +132,10 @@ var products ={
 			image2 : "images/bo22.jpg",
 			image3 : "images/bo23.jpg",
 			image4 : "images/bo24.jpg",
-			carousel : "12"
+			carousel : "12",
+			tenao : "SET 11",
+			gia   : "29.95",
+
 		},
 		{
 			
@@ -113,7 +144,10 @@ var products ={
 			image2 : "images/bo12.jpg",
 			image3 : "images/bo13.jpg",
 			image4 : "images/bo14.jpg",
-			carousel : "13"
+			carousel : "13",
+			tenao : "SET 12",
+			gia   : "29.95",
+
 		}
 	]
 }
