@@ -143,6 +143,8 @@ var modal1 = {
 			{	
 				image : "images/bo31.jpg",
 				modal : "3",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 				
@@ -151,6 +153,8 @@ var modal1 = {
 			},{	
 				image : "images/bo41.jpg",
 				modal : "4",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 				
@@ -159,6 +163,8 @@ var modal1 = {
 			{	
 				image : "images/bo51.jpg",
 				modal : "5",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 				
@@ -166,6 +172,8 @@ var modal1 = {
 			{	
 				image : "images/bo61.jpg",
 				modal : "6",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 				
@@ -190,12 +198,16 @@ var modal2 = {
 			{	
 				image : "images/bo51.jpg",
 				modal : "8",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 			
 				
 			},
 			{	
 				image : "images/bo41.jpg",
 				modal : "9",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 			
 				
 				
@@ -203,12 +215,15 @@ var modal2 = {
 			},{	
 				image : "images/bo31.jpg",
 				modal : "10",
-				
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 			},
 			{	
 				image : "images/bo21.jpg",
 				modal : "11",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 				
@@ -216,6 +231,8 @@ var modal2 = {
 			{	
 				image : "images/bo11.jpg",
 				modal : "12",
+				gia   : "24,90$",
+				ten  : "Sheer Taffeta Shirt"
 				
 				
 
