@@ -196,20 +196,20 @@ ul li ul li:hover {
 }
 #carousel-indicators1 li:nth-child(1){
 	background-size: cover;
-    background-image: url('images/sp1.jpg')
+    background-image: url('images/sp11.jpg')
     ;
 }
 #carousel-indicators1 li:nth-child(2){
 	background-size: cover;
-    background-image: url('images/sp2.jpg');
+    background-image: url('images/sp12.jpg');
 }
 #carousel-indicators1 li:nth-child(3){
 	background-size: cover;
-    background-image: url('images/sp3.jpg');
+    background-image: url('images/sp13.jpg');
 }
 #carousel-indicators1 li:nth-child(4){
 	background-size: cover;
-    background-image: url('images/sp4.jpg');
+    background-image: url('images/sp14.jpg');
 }
 #carouselExampleIndicators-2 li{
 	background-color: black;
