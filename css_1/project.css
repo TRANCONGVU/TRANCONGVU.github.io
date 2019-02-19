@@ -177,12 +177,7 @@ ul li ul li:hover {
  .carousel-indicators img{
      width: 20px;
 }
-
-#carousel-indicators1 li {
-	
-	width: 60px;
-	height: 80px;
-}  
+  
 .carousel-inner{
 	background-color: white;
 }
