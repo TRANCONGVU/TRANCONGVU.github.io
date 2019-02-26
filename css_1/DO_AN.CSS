@@ -14,22 +14,25 @@ span{
 	margin: 0 auto;
 	
 }
+.menuh {
+	font-size: 20px;
+	font-weight: 700;
+	padding: 17px;
+}
 .section_1_left{
+	position: relative;
+	left: -100px;
 	float:left;
 	width: 50%;
 	height: 100%;
 	background-color: black;
 }
-.section_1_right{
-	float:left;
-	width: 52%;
-	height: 100%;
-	background-color: black;
-}
+
 .section_1_left img{
 	transform: scale(0.5);
 	position: absolute;
     left: 20px;
+    top: 0px;
 }
 .section_1_right:hover a{
     text-decoration: none;
@@ -235,6 +238,10 @@ ul li ul li:hover {
 	font-size: 12px;
 	color: grey;
 }
+.table {
+	width: 80%;
+	margin-left: 70px;
+}
 .section_3 {
 	width: 100%;
 	margin-bottom: 20px
@@ -302,7 +309,15 @@ ul li ul li:hover {
 	width: 120px;
 	height: 50px;
 }
+.lienhe2{
+	text-align: center;
+	margin-top: 10px;
+	width: 100%;
 
+}
+.lienhe2 a{
+	margin-left: 80px;
+}
 .lienhe2 img{
 	width: 25px;
 	height: 25px;
@@ -317,7 +332,220 @@ ul li ul li:hover {
 	text-align: center;
 	margin-left: 595px;
 }
+.mastercard {
+	width: 120px;
+	height: 70px;
+}
 a:hover{
 	text-decoration: none;
 	color: black;
+}
+#cart{
+	width: 480px;
+	height: 70px;
+
+}
+.quickoder {
+	width: 350px;
+	height: 80px;
+}
+@media only screen and (max-width: 425px) and (min-width: 320px)
+ {
+  .container {
+  	width: 335px;
+  }
+	
+	#navbarSupportedContent{
+		float: right;
+		width: 200px;
+	}
+	 #carousel-1{
+	width: 280px;
+	height: auto;
+	}
+	.rate {
+		float: right;
+		width: auto;
+	}
+	.sale {
+		float: right;
+		margin-top: 20px;
+		margin-right: -15px;
+	}
+	.color {
+		margin-top: 10px;
+	}
+	#cart {
+		width: 290px;
+		margin-top: 20px;
+	}
+	.row.left {
+		float: left;
+	}
+	#myModal1 {
+		width: 89%;
+		margin-top: 57px;
+		margin-left: 20px;
+	}
+	.col-lg-2 {
+		width: 115px;
+	}
+	#modal_list {
+		font-size: 10px;
+	}
+	.row.footer{
+		text-align: center;
+	}
+	.lienhe2 {
+		float: left;
+		margin-left: -5px;
+		margin-bottom: 10px;
+	}
+	.lienhe2 a {
+		margin-left: 20px;
+	}
+	
+}
+@media only screen and (max-width: 768px) and (min-width: 426px)
+ {
+  .container {
+  	width: 768px;
+  }
+	
+	#navbarSupportedContent{
+		float: right;
+		width: 200px;
+	}
+	.navbar-toggler {
+		margin-left: 350px;
+	}
+	#carousel-1{
+	width: 334px;
+	height: 590px;
+	}
+	.rate {
+		float: right;
+		width: auto;
+	}
+	.sale {
+		float: right;
+		margin-top: 20px;
+		margin-right: -55px;
+	}
+	.color {
+		margin-top: 10px;
+	}
+	#cart {
+		width: 290px;
+		margin-top: 20px;
+	}
+	.row.left {
+		float: left;
+	}
+	.row.right {
+		float: left;
+	}
+	.guidersize{
+		margin-top: 100px;
+	}
+	#myModal1 {
+		width: 89%;
+		margin-top: 57px;
+		margin-left: 20px;
+	}
+	.col-lg-2 {
+		width: 125px;
+	}
+	#modal_list {
+		font-size: 10px;
+	}
+	.row.footer{
+		text-align: center;
+	}
+	.lienhe2 {
+		float: left;
+		margin-left: -5px;
+		margin-bottom: 10px;
+	}
+	.lienhe2 a {
+		margin-left: 20px;
+	}
+	.pay img {
+		width: 60px;
+		height: 30px;
+	}
+	.mastercard {
+		width: 60px;
+		height: 45px;
+	}
+}
+@media only screen and (max-width: 1024px) and (min-width: 769px)
+ {
+  .container {
+  	width: 1024px;
+  }
+	.section_1 a{
+		font-size: 16px;
+	}
+	#navbarSupportedContent{
+		float: right;
+		width: auto;
+		margin-right: -20px;
+	}
+	#search{
+		width: 155px
+	}
+	#carousel-1{
+	width: 430px;
+	height: 590px;
+	}
+	.rate {
+		margin-right: 105px;
+		float: right;
+		width: auto;
+	}
+	.sale {
+		float: right;
+		margin-top: 20px;
+		margin-right: -15px;
+	}
+	.color {
+		margin-top: 10px;
+	}
+	#cart {
+		width: 290px;
+		margin-top: 20px;
+	}
+	
+	#myModal1 {
+		width: 89%;
+		margin-top: 57px;
+		margin-left: 20px;
+	}
+	.col-lg-2 {
+		width: auto;
+	}
+	#modal_list {
+		font-size: 10px;
+	}
+	.row.footer{
+		text-align: center;
+	}
+	.lienhe2 {
+		float: left;
+		margin-left: -5px;
+		margin-bottom: 10px;
+	}
+	
+		.lienhe2 a {
+		margin-left: 20px;
+	}
+	.pay img {
+		width: 60px;
+		height: 30px;
+	}
+	.mastercard {
+		width: 60px;
+		height: 45px;
+	}
 }
